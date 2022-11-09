@@ -1,0 +1,19 @@
+name: thumb_slider
+description: A slider that supports with custom thumb 
+repository: https://github.com/dewinjm/thumb_slider
+homepage: https://github.com/dewinjm/thumb_slider
+issue_tracker: https://github.com/dewinjm/thumb_slider/issues
+version: 0.1.0-dev.1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^0.3.0
+  very_good_analysis: ^3.1.0
